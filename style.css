@@ -1,0 +1,26 @@
+.img-sizing{
+    width: 300px;
+    align-items: left
+    ;
+}
+.color-penguine{
+    color: orange;
+}
+.button-color {
+    background-color: #06beb6 → #48b1bf
+}
+.container{
+    margin-bottom: 80px;
+    
+}
+.Main-event{
+    
+        background-color: palegoldenrod;
+        border-radius: 1px;
+}
+.card-title{
+    font-weight: 700;
+}
+.final-footer{
+    text-align: center;
+}
